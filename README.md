@@ -1,7 +1,5 @@
 # iPhone 15 Demo Site
 
-![iPhone 15 Demo Site Screenshot](link-to-screenshot-image)
-
 ## Description
 
 The iPhone 15 Demo Site is a dynamic, responsive web application showcasing the iPhone 15. It features an interactive 3D model of the iPhone 15, animations, and a modern design. The site is optimized for all devices and built using React with Vite, Three.js for rendering the 3D model, GSAP for animations, and Tailwind CSS for styling.
