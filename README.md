@@ -14,9 +14,6 @@ Check out the live demo: [iPhone 15 Demo Site](https://iphone-demo-site.netlify.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
